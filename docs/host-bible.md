@@ -196,4 +196,4 @@ Three theatre fans also rate a weekly sample of breaks for tone during beta.
 - [ ] Whether hosts mention Standing Room Only, which depends on WERS's permission
 - [ ] Whether hosts can reference the listener's theatre diary, and how to ask for consent
 - [ ] Weekend shift schedule
-- [ ] App name: "Jazz Hands" pending trademark review
+- [ ] App name: "Cuecast" pending trademark review

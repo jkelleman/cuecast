@@ -1,12 +1,12 @@
-# Jazz Hands
+# Cuecast
 
 24/7 show-tunes radio with three AI hosts.
 
-Jazz Hands is an always-on station for musical theatre fans. Listeners steer it by talking to it ("Golden Age only," "nothing from *Les Mis* today," "something sad for a rainy walk"), save and swap playlists with other fans, and keep a diary of the shows they've seen. Three AI hosts with distinct personalities rotate through the day and talk between songs.
+Cuecast is an always-on station for musical theatre fans. Listeners steer it by talking to it ("Golden Age only," "nothing from *Les Mis* today," "something sad for a rainy walk"), save and swap playlists with other fans, and keep a diary of the shows they've seen. Three AI hosts with distinct personalities rotate through the day and talk between songs.
 
 It's also a portfolio project. The app shows conversation design and agentic AI work end to end: intent design, persona systems, grounding, agent boundaries, recovery flows and evals.
 
-> **Name status:** "Jazz Hands" is a working name. A registered mark, THE JAZZ HANDS (class 41, a music-lesson program), needs a trademark attorney's review before public launch.
+> **Name status:** "Cuecast" blends "cue" and "broadcast." A first screen found no app with this name and only an abandoned 2012 CUECAST filing. It still needs a trademark attorney's review before public launch.
 
 ## Status
 
