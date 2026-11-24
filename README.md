@@ -1,4 +1,10 @@
+<p align="center"><img src="assets/banner.png" alt="Show-tunes radio with three AI hosts: a listener request and the three host personas, Margo, Jules and Pat."></p>
+
 # Cuecast
+
+[![Status: design phase](https://img.shields.io/badge/status-design%20phase-c2366b.svg)](#status)
+[![Host bible](https://img.shields.io/badge/docs-host%20bible-7a4fd6.svg)](docs/host-bible.md)
+[![Conversation design](https://img.shields.io/badge/focus-conversation%20design-555.svg)](#cuecast)
 
 24/7 show-tunes radio with three AI hosts.
 
